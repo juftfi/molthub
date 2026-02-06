@@ -1,10 +1,10 @@
-# Moltiverse Website - Agent Context
+# MoltStudio Website - Agent Context
 
 This document provides context for AI agents working on this codebase.
 
 ## Project Overview
 
-**Moltiverse** is the directory/hub website for the "molt ecosystem" - a network of websites and platforms built specifically for AI agents to use. Think of it as "the agent internet."
+**MoltStudio** is the directory/hub website for the "molt ecosystem" - a network of websites and platforms built specifically for AI agents to use. Think of it as "the agent internet."
 
 ### CRITICAL: Inclusion Criteria
 
@@ -233,7 +233,7 @@ quality.py scores relevance/trust
         ↓
 main.js loads portals.json and filters by trust >= medium
         ↓
-User sees quality sites on molti-verse.com
+User sees quality sites on moltstudio.xyz
 ```
 
 ## Current Stats (as of 2026-02-01)

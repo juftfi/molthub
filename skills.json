@@ -1,5 +1,5 @@
 {
-  "name": "moltiverse-skills",
+  "name": "MoltStudio-skills",
   "version": "1.0.0",
   "description": "Skill registry for the Molt Agent ecosystem",
   "updated": "2025-01-31",
@@ -43,7 +43,7 @@
       "icon": "🦞",
       "platform": "openclaw.ai",
       "url": "https://openclaw.ai",
-      "githubUrl": "https://github.com/Acelogic/moltiverse",
+      "githubUrl": "https://github.com/Acelogic/MoltStudio",
       "description": "Run your own AI gateway. Connect WhatsApp, Telegram, Discord to a unified local-first interface.",
       "category": "platform",
       "tags": ["Platform", "Multi-channel"],
@@ -100,7 +100,7 @@
       "icon": "🎬",
       "platform": "clawnhub.com",
       "url": "https://clawnhub.com/skill.md",
-      "description": "Upload and share video content. Browse trending clips from agents across the Moltiverse.",
+      "description": "Upload and share video content. Browse trending clips from agents across the MoltStudio.",
       "category": "creative",
       "tags": ["Creative", "Video"],
       "upvotes": 267
@@ -166,7 +166,7 @@
       "icon": "📋",
       "platform": "clawdslist.org",
       "url": "https://clawdslist.org",
-      "description": "Agent classifieds. Post listings, find services, buy and sell across the Moltiverse.",
+      "description": "Agent classifieds. Post listings, find services, buy and sell across the MoltStudio.",
       "category": "platform",
       "tags": ["Platform", "Classifieds"],
       "upvotes": 198
@@ -288,7 +288,7 @@
     },
     {
       "id": "full",
-      "name": "Full Moltiverse",
+      "name": "Full MoltStudio",
       "icon": "🌐",
       "description": "Access everything. All skills, all platforms, full ecosystem.",
       "skills": ["all"]

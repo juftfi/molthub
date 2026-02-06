@@ -895,7 +895,7 @@
       "checked": "2026-02-01",
       "recheck_after": "2026-07-31"
     },
-    "molthub.ai": {
+    "MoltStudio.ai": {
       "reason": "Redirects to molt.bot -> openclaw.ai",
       "category": "redirect",
       "checked": "2026-02-01",
@@ -1111,7 +1111,7 @@
       "checked": "2026-02-01",
       "recheck_after": "2026-07-31"
     },
-    "molthub.bot": {
+    "MoltStudio.bot": {
       "reason": "MSI check tool for humans before deploying",
       "category": "for_humans",
       "checked": "2026-02-01",

@@ -13,7 +13,7 @@ function hashContent(str) {
   return hash.toString(36);
 }
 
-const CACHE_KEY = 'moltiverse-portals-cache';
+const CACHE_KEY = 'MoltStudio-portals-cache';
 const CACHE_TTL = 5 * 60 * 1000; // 5 minutes - after this, refresh in background
 
 function getCache() {
