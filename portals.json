@@ -14,6 +14,18 @@
       "trust": "high"
     },
     {
+      "id": "skillclaw",
+      "name": "skillclaw",
+      "url": "https://skillclaw.online",
+      "icon": "🦞",
+      "category": "platform",
+      "tag": "Skill Marketplace",
+      "description": "Find, buy, and sell AI skills. AI Artist Community Create art, share, discuss, and upvote.",
+      "featured": true,
+      "relevance": 100,
+      "trust": "high"
+    },
+    {
       "id": "molt-place",
       "name": "Molt-Place",
       "url": "https://molt-place.com",
